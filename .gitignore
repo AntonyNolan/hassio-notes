@@ -13,6 +13,18 @@ bin-release/
 *.ipa
 *.apk
 
+secrets.yaml
+*.log
+*.xml
+*.db
+*.sqlite
+.storage/
+OZW_Log.txt
+harmony_harmony_hub.conf
+known_devices.yaml
+secrets.yaml
+
+
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
